@@ -1,0 +1,14 @@
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.exe.config
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.exe
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.pdb
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.csprojAssemblyReference.cache
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.csproj.CoreCompileInputs.cache
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.exe
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.pdb
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\bin\Debug\ClusterCSV.exe.config
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\bin\Debug\ClusterCSV.exe
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\bin\Debug\ClusterCSV.pdb
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\obj\Debug\ClusterCSV.csprojAssemblyReference.cache
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\obj\Debug\ClusterCSV.csproj.CoreCompileInputs.cache
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\obj\Debug\ClusterCSV.exe
+C:\CODE\AgrupadorCSV\AgrupadorCSV\00 - Clustering, tratamento de dados e dendrogramas\obj\Debug\ClusterCSV.pdb
