@@ -10,15 +10,21 @@ Para iniciar o software, basta acessar o executável ClusterCSV.exe, presente de
 ### Comandos
 #### Versão inicial
 A versão inicial possui 12 comandos destinados à leitura, tratamento estatístico, agrupamento e exibição de dados estatísticos. Cada um com suas peculiaridades. São eles:
-- **ajuda**: Exibe a lista de comandos disponíveis
-- **agrupar**: Agrupa amostras em clusters
+- **ajuda**: Exibe a lista de comandos disponíveis.
+- **agrupar**: Agrupa amostras em clusters.
 - **altura**: Define altura de gráficos e imagens.
-- **dendrograma**: Salva dendrograma em caminho especificado
-- **desvio**: Exibe desvio padrão de dataset carregado
+- **coeficiente**: Exibe os coeficientes de variação do dataset.
+- **dendrograma**: Salva dendrograma em caminho especificado.
+- **desvio**: Exibe desvio padrão de dataset carregado.
+- **dissimilaridade**: Define a medida de dissimilaridade adotada.
 - **largura**: Define largura de gráficos e imagens.
-- **ler**: A partir de um caminho, lê dataset em CSV
+- **ler**: A partir de um caminho, lê dataset em CSV.
 - **limpar**: Limpa a tela.
-- **média**: Exibe média de dataset carregado.
+- **média**: Exibe médias de dataset carregado.
+- **mediana**: Exibe medianas do dataset carregado.
 - **margemX**: Define margem horizontal.
 - **margemY**: Define margem vertical.
-- **salvar**: Salva dataset normalizado.
+- **método**: Define o método de agrupamento.
+- **moda**: Exibe modas do dataset.
+- **quartil**: Exibe quartis inferiores e superiores do dataset.
+- **salvar**: Salva dataset normalizado e matriz de distâncias em planilha CSV.
