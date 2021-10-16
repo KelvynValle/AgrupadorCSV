@@ -1,0 +1,7 @@
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.exe.config
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.exe
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\bin\Debug\ClusterCSV.pdb
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.csprojAssemblyReference.cache
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.csproj.CoreCompileInputs.cache
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.exe
+C:\Users\kelvy\source\repos\ClusterCSV\ClusterCSV\obj\Debug\ClusterCSV.pdb
